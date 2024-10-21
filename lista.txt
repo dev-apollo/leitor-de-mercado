@@ -1,0 +1,3 @@
+maçã verde,2
+iogurte 2L,3
+soja 1kg,5
